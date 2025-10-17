@@ -2,7 +2,7 @@
 
 Submitted by: Eleni Mekonnen
 
-FlixstersP2 is a movie browsing app that allows users to browse ... [TODO] 
+FlixstersP2 is a movie browsing app that allows users to browse 
 
 Time spent: 2 hours spent in total
 
